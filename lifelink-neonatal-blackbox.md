@@ -62,9 +62,9 @@ The project uses the ESP32 MYOSA motherboard along with multiple sensors to gene
 
 ### Videos
 
-<video controls width="100%">
-  <source src="lifelink-demo.mp4" type="video/mp4">
-</video>
+## Demo Video
+
+[▶ Click Here to Watch Demo Video](lifelink-demo.mp4)
 
 ---
 
