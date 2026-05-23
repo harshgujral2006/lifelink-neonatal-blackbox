@@ -62,7 +62,7 @@ The project uses the ESP32 MYOSA motherboard along with multiple sensors to gene
 
 ### Videos
 
-[▶ Watch Demo Video](https://github.com/harshgujral2006/lifelink-neonatal-blackbox/blob/main/lifelink-demo.mp4)
+[▶ Watch Demo Video](https://github.com/harshgujral2006/lifelink-neonatal-blackbox/blob/main/demo.mp4.mp4)
 
 ---
 
